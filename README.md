@@ -21,7 +21,7 @@
 
 ## 📌 Overview
 
-**DriverGuard AI** is a real-time driver drowsiness detection system built using **Computer Vision and Machine Learning**.
+**Driver Drowsiness Detection System** is a real-time driver drowsiness detection system built using **Computer Vision and Machine Learning**.
 
 The system analyzes facial behavior from a webcam or video stream and extracts three important features:
 
