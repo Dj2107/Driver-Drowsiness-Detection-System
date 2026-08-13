@@ -35,7 +35,7 @@ Instead of relying on a single frame, the system uses a **20-frame sliding windo
 
 ---
 
-## 🎯 Why DriverGuard AI?
+## 🎯 Why Driver Drowsiness Alert System?
 
 Driver fatigue can reduce reaction time, concentration, and decision-making ability.
 
